@@ -1,0 +1,199 @@
+personal_information:
+  name: "Yessica"
+  surname: "Sosa"
+  date_of_birth: "03/01/2002"
+  country: "Brazil"
+  city: "Caxias do Sul"
+  address: "Caxias"
+  phone_prefix: "+598"
+  phone: "098 418 611"
+  email: "ysosamaitia@gmail.com"
+  github: "https://github.com/sosayessicaSE"
+  linkedin: "https://www.linkedin.com/in/-yessicasosa-/"
+
+education_details:
+  - degree: "Bachelor in Computer Science"
+    university: "University Of the People"
+    gpa: "n/a"
+    graduation_year: "2028"
+    field_of_study: "Computer Science"
+    exam:
+      Engineering: "n/a"
+
+  - degree: "Software Engineering"
+    university: "IAE Colonia"
+    gpa: "n/a"
+    graduation_year: "2025"
+    field_of_study: "Software Development"
+    exam:
+      Engineering: "n/a"
+
+  - degree: "Analyst Programmer"
+    university: "CEI Maldonado"
+    gpa: "n/a"
+    graduation_year: "2024"
+    field_of_study: "Software Development"
+    exam:
+      Engineering: "100/100"
+
+  - degree: "Quality Engineering"
+    university: "Globant"
+    gpa: "n/a"
+    graduation_year: "2023"
+    field_of_study: "Quality Engineering"
+    exam:
+      QE: "n/a"
+
+  - degree: "English Language"
+    university: "Dickens Institute"
+    gpa: "n/a"
+    graduation_year: "2017"
+    field_of_study: "English Language"
+    exam:
+      English Language: "100/100"
+
+experience_details:
+  - position: "Software Engineering Instructor"
+    company: "Coding Temple"
+    employment_period: "NOV 2023 – NOW"
+    location: "Remote"
+    industry: "Education"
+    key_responsibilities:
+      - responsibility_1: "Conducted regular instructional sessions and contributed to curriculum development."
+      - responsibility_2: "Utilized effective teaching methodologies to convey complex software engineering concepts."
+      - responsibility_3: "Guided students through coding exercises, debugging challenges, and collaborative projects."
+    skills_acquired:
+      - "Mentorship"
+      - "Teaching"
+      - "Effective Communication"
+
+  - position: "Full Stack Developer"
+    company: "Venus SD"
+    employment_period: "APR 2021 – SEP 2023"
+    location: "Remote"
+    industry: "Software Development"
+    key_responsibilities:
+      - responsibility_1: "Developed APIs, websites, and databases for clients."
+      - responsibility_2: "Collaborated closely with clients to understand their needs and delivered tailored solutions."
+      - responsibility_3: "Designed and implemented full-stack solutions, enhancing client productivity."
+    skills_acquired:
+      - "JavaScript"
+      - "Python"
+      - "SQL"
+
+  - position: "Content Moderator"
+    company: "Alorica"
+    employment_period: "AUG 2022 – DEC 2023"
+    location: "Remote"
+    industry: "Content Management"
+    key_responsibilities:
+      - responsibility_1: "Moderated multilingual content ensuring safe online environments."
+      - responsibility_2: "Collaborated with team managers to implement policies and ensure high client satisfaction."
+      - responsibility_3: "Participated in frequent meetings to address content-related issues."
+    skills_acquired:
+      - "Multilingual Communication"
+      - "Policy Implementation"
+      - "Team Collaboration"
+
+  - position: "Programming Teacher"
+    company: "Venus SD"
+    employment_period: "JUN 2022 – AUG 2023"
+    location: "Hybrid"
+    industry: "Education"
+    key_responsibilities:
+      - responsibility_1: "Mentored students in programming, covering various topics from basics to advanced concepts."
+      - responsibility_2: "Designed and implemented learning materials including slides, activities, and projects."
+      - responsibility_3: "Provided personalized guidance to foster quick and effective learning."
+    skills_acquired:
+      - "Teaching"
+      - "Curriculum Design"
+      - "Mentorship"
+
+  - position: "IT Support"
+    company: "Keller Williams"
+    employment_period: "MAR 2023 – JUL 2023"
+    location: "Hybrid"
+    industry: "Real Estate"
+    key_responsibilities:
+      - responsibility_1: "Provided IT support, including troubleshooting and network management."
+      - responsibility_2: "Optimized productivity through technology integration."
+      - responsibility_3: "Delivered exceptional customer service and seamless technology experiences."
+    skills_acquired:
+      - "IT Support"
+      - "Network Management"
+      - "Customer Service"
+
+  - position: "Game Designer"
+    company: "Big Paw Games"
+    employment_period: "APR 2020 – AUG 2021"
+    location: "Hybrid"
+    industry: "Gaming"
+    key_responsibilities:
+      - responsibility_1: "Designed and developed engaging games using RPG Maker and Unity."
+      - responsibility_2: "Crafted immersive gameplay, narratives, and character designs."
+      - responsibility_3: "Implemented game mechanics and player progression systems."
+    skills_acquired:
+      - "Game Design"
+      - "Unity"
+      - "Creative Development"
+
+projects:
+  - name: "Github"
+    description: "Github"
+    link: "https://github.com/sosayessicaSE"
+
+achievements:
+  - name: ""
+    description: ""
+
+certifications:
+  - "AI Accelerator - Coding Temple"
+  - "Learn Python Basics for Data Analysis - Coursera"
+  - "Diploma in Cyber Security - HSC Oxford"
+  - "TCEA Certification for Remote Learning Educator"
+
+languages:
+  - language: "Spanish"
+    proficiency: "Native"
+  - language: "Portuguese"
+    proficiency: "Bilingual"
+  - language: "English"
+    proficiency: "C2"
+
+interests:
+  - "Artificial Intelligence"
+  - "Game Design"
+  - "Web Development"
+  - "Teaching"
+  - "Problem-Solving"
+
+availability:
+  notice_period: "1 Week"
+
+salary_expectations:
+  salary_range_usd: "3000"
+
+self_identification:
+  gender: "Female"
+  pronouns: "She"
+  veteran: "None"
+  disability: "N/A"
+  ethnicity: "Latin"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "No"
+  open_to_relocation: "No"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
